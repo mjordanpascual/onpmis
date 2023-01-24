@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+label {
+  padding: 0.1rem 0;
+}
+
+input {
+  width: 250px;
+}
